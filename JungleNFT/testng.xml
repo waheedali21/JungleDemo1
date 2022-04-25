@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+	<listeners>
+		<listener class-name="com.jungle.utility.ListenerClass"></listener>
+	</listeners>
+
+
+
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.jungle.testcases.MarketPageTest" />
+			<class name="com.jungle.testcases.LandingPageTest" />
+			<class name="com.jungle.testcases.HowItWorksPageTest" />
+			<class name="com.jungle.testcases.ResourcesPageTest" />
+			<class name="com.jungle.testcases.ExplorePageTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

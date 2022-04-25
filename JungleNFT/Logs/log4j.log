@@ -1,0 +1,306 @@
+2022-04-25 01:16:01 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 01:16:01 INFO  Log:22 - Passing email for SignUp
+2022-04-25 01:16:05 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 01:16:05 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 01:16:05 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 01:16:05 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 01:16:10 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 01:16:10 INFO  Log:22 - Passing email for SignUp
+2022-04-25 01:16:14 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 01:16:14 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 01:16:14 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 01:16:14 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 01:16:20 INFO  Log:11 - ====================landingPageContentVerificationTest TEST START====================
+2022-04-25 01:16:20 INFO  Log:22 - Ladning page content is showing
+2022-04-25 01:16:20 INFO  Log:22 - Landing page content Buy, Sell & Create Digital Art is verified
+2022-04-25 01:16:20 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 01:16:25 INFO  Log:11 - ====================validateConnectWalletButtonTest TEST START====================
+2022-04-25 01:16:25 INFO  Log:22 - In top menu Connect Wallet button is showing/displaying
+2022-04-25 01:16:25 INFO  Log:22 - Wallet Button is validated successfully
+2022-04-25 01:16:25 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 01:16:29 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 01:16:29 INFO  Log:22 - Get the current page Url
+2022-04-25 01:16:29 INFO  Log:22 - Store the current page url in string value
+2022-04-25 01:16:29 INFO  Log:22 - Current page url is validated
+2022-04-25 01:16:29 INFO  Log:15 - ====================validateLandingPageUrlTest TEST END====================
+2022-04-25 01:16:34 INFO  Log:11 - ====================validateLogoTest TEST START====================
+2022-04-25 01:16:34 INFO  Log:22 - Log is displayed and store in boolean value
+2022-04-25 01:16:34 INFO  Log:22 - Log is displayed & verified
+2022-04-25 01:16:34 INFO  Log:15 - ====================validateLogoTest TEST END====================
+2022-04-25 01:16:39 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 01:16:39 INFO  Log:22 - Get the landingpage/current page title
+2022-04-25 01:16:39 INFO  Log:22 - Page title stored in string value
+2022-04-25 01:16:39 INFO  Log:22 - Page title is verifed
+2022-04-25 01:16:39 INFO  Log:15 - ====================validatePageTitleTest TEST END====================
+2022-04-25 01:16:44 INFO  Log:11 - ====================validateSignUpLinkIsPresentTest TEST START====================
+2022-04-25 01:16:44 INFO  Log:22 - In top menu SignUp link is showing/displaying
+2022-04-25 01:16:44 INFO  Log:22 - SignUp link validated successfully
+2022-04-25 01:16:44 INFO  Log:15 - ====================validateSignUpLinkIsPresentTest TEST END====================
+2022-04-25 01:23:36 INFO  Log:11 - ====================FAQsContentVerificationTest TEST START====================
+2022-04-25 01:23:39 INFO  Log:15 - ====================FAQsContentVerificationTest TEST END====================
+2022-04-25 01:23:44 INFO  Log:11 - ====================validateResoucePageUrlTest TEST START====================
+2022-04-25 01:23:45 INFO  Log:15 - ====================validateResoucePageUrlTest TEST END====================
+2022-04-25 01:23:50 INFO  Log:11 - ====================validateResourceHeadingTextFAQsTest TEST START====================
+2022-04-25 01:23:52 INFO  Log:15 - ====================validateResourceHeadingTextFAQsTest TEST END====================
+2022-04-25 01:23:57 INFO  Log:11 - ====================validateResourceSubHeadingTextFAQsTest TEST START====================
+2022-04-25 01:23:59 INFO  Log:15 - ====================validateResourceSubHeadingTextFAQsTest TEST END====================
+2022-04-25 01:24:40 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 01:24:40 INFO  Log:22 - Passing email for SignUp
+2022-04-25 01:24:44 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 01:24:44 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 01:24:44 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 01:24:44 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 01:24:49 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 01:24:49 INFO  Log:22 - Passing email for SignUp
+2022-04-25 01:24:53 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 01:24:53 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 01:24:53 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 01:24:53 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 01:24:57 INFO  Log:11 - ====================landingPageContentVerificationTest TEST START====================
+2022-04-25 01:24:57 INFO  Log:22 - Ladning page content is showing
+2022-04-25 01:24:57 INFO  Log:22 - Landing page content Buy, Sell & Create Digital Art is verified
+2022-04-25 01:24:57 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 01:25:02 INFO  Log:11 - ====================validateConnectWalletButtonTest TEST START====================
+2022-04-25 01:25:02 INFO  Log:22 - In top menu Connect Wallet button is showing/displaying
+2022-04-25 01:25:02 INFO  Log:22 - Wallet Button is validated successfully
+2022-04-25 01:25:02 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 01:25:07 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 01:25:07 INFO  Log:22 - Get the current page Url
+2022-04-25 01:25:07 INFO  Log:22 - Store the current page url in string value
+2022-04-25 01:25:07 INFO  Log:22 - Current page url is validated
+2022-04-25 01:25:07 INFO  Log:15 - ====================validateLandingPageUrlTest TEST END====================
+2022-04-25 01:25:12 INFO  Log:11 - ====================validateLogoTest TEST START====================
+2022-04-25 01:25:12 INFO  Log:22 - Log is displayed and store in boolean value
+2022-04-25 01:25:12 INFO  Log:22 - Log is displayed & verified
+2022-04-25 01:25:12 INFO  Log:15 - ====================validateLogoTest TEST END====================
+2022-04-25 01:25:17 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 01:25:17 INFO  Log:22 - Get the landingpage/current page title
+2022-04-25 01:25:17 INFO  Log:22 - Page title stored in string value
+2022-04-25 01:25:17 INFO  Log:22 - Page title is verifed
+2022-04-25 01:25:17 INFO  Log:15 - ====================validatePageTitleTest TEST END====================
+2022-04-25 01:25:22 INFO  Log:11 - ====================validateSignUpLinkIsPresentTest TEST START====================
+2022-04-25 01:25:22 INFO  Log:22 - In top menu SignUp link is showing/displaying
+2022-04-25 01:25:22 INFO  Log:22 - SignUp link validated successfully
+2022-04-25 01:25:22 INFO  Log:15 - ====================validateSignUpLinkIsPresentTest TEST END====================
+2022-04-25 01:25:27 INFO  Log:11 - ====================validateHowItWorkPageUrlTest TEST START====================
+2022-04-25 01:25:27 INFO  Log:15 - ====================validateHowItWorkPageUrlTest TEST END====================
+2022-04-25 01:25:32 INFO  Log:11 - ====================validateHowItWorkeadingTextTest TEST START====================
+2022-04-25 01:25:32 INFO  Log:15 - ====================validateHowItWorkeadingTextTest TEST END====================
+2022-04-25 01:25:37 INFO  Log:11 - ====================validateSubHeadingTextTest TEST START====================
+2022-04-25 01:25:37 INFO  Log:15 - ====================validateSubHeadingTextTest TEST END====================
+2022-04-25 01:25:42 INFO  Log:11 - ====================FAQsContentVerificationTest TEST START====================
+2022-04-25 01:25:45 INFO  Log:15 - ====================FAQsContentVerificationTest TEST END====================
+2022-04-25 01:25:49 INFO  Log:11 - ====================validateResoucePageUrlTest TEST START====================
+2022-04-25 01:25:50 INFO  Log:15 - ====================validateResoucePageUrlTest TEST END====================
+2022-04-25 01:25:55 INFO  Log:11 - ====================validateResourceHeadingTextFAQsTest TEST START====================
+2022-04-25 01:25:58 INFO  Log:15 - ====================validateResourceHeadingTextFAQsTest TEST END====================
+2022-04-25 01:26:03 INFO  Log:11 - ====================validateResourceSubHeadingTextFAQsTest TEST START====================
+2022-04-25 01:26:05 INFO  Log:15 - ====================validateResourceSubHeadingTextFAQsTest TEST END====================
+2022-04-25 01:26:10 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 01:26:10 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 01:26:15 INFO  Log:11 - ====================validateMarketPageUrlTest TEST START====================
+2022-04-25 01:26:15 INFO  Log:15 - ====================validateMarketPageUrlTest TEST END====================
+2022-04-25 01:26:20 INFO  Log:11 - ====================validateMarketSubCategoryTest TEST START====================
+2022-04-25 01:26:20 INFO  Log:15 - ====================validateMarketSubCategoryTest TEST END====================
+2022-04-25 01:26:25 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 01:26:25 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 01:26:30 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 01:26:30 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:07:08 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 02:07:08 INFO  Log:22 - Passing email for SignUp
+2022-04-25 02:07:12 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 02:07:12 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 02:07:12 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 02:07:12 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 02:07:17 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 02:07:17 INFO  Log:22 - Passing email for SignUp
+2022-04-25 02:07:23 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 02:07:23 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 02:07:23 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 02:07:23 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 02:07:28 INFO  Log:11 - ====================landingPageContentVerificationTest TEST START====================
+2022-04-25 02:07:28 INFO  Log:22 - Ladning page content is showing
+2022-04-25 02:07:28 INFO  Log:22 - Landing page content Buy, Sell & Create Digital Art is verified
+2022-04-25 02:07:28 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 02:07:33 INFO  Log:11 - ====================validateConnectWalletButtonTest TEST START====================
+2022-04-25 02:07:33 INFO  Log:22 - In top menu Connect Wallet button is showing/displaying
+2022-04-25 02:07:33 INFO  Log:22 - Wallet Button is validated successfully
+2022-04-25 02:07:33 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 02:07:38 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 02:07:38 INFO  Log:22 - Get the current page Url
+2022-04-25 02:07:38 INFO  Log:22 - Store the current page url in string value
+2022-04-25 02:07:38 INFO  Log:22 - Current page url is validated
+2022-04-25 02:07:38 INFO  Log:15 - ====================validateLandingPageUrlTest TEST END====================
+2022-04-25 02:07:43 INFO  Log:11 - ====================validateLogoTest TEST START====================
+2022-04-25 02:07:43 INFO  Log:22 - Log is displayed and store in boolean value
+2022-04-25 02:07:43 INFO  Log:22 - Log is displayed & verified
+2022-04-25 02:07:43 INFO  Log:15 - ====================validateLogoTest TEST END====================
+2022-04-25 02:07:48 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 02:07:48 INFO  Log:22 - Get the landingpage/current page title
+2022-04-25 02:07:48 INFO  Log:22 - Page title stored in string value
+2022-04-25 02:07:48 INFO  Log:22 - Page title is verifed
+2022-04-25 02:07:48 INFO  Log:15 - ====================validatePageTitleTest TEST END====================
+2022-04-25 02:07:53 INFO  Log:11 - ====================validateSignUpLinkIsPresentTest TEST START====================
+2022-04-25 02:07:53 INFO  Log:22 - In top menu SignUp link is showing/displaying
+2022-04-25 02:07:53 INFO  Log:22 - SignUp link validated successfully
+2022-04-25 02:07:53 INFO  Log:15 - ====================validateSignUpLinkIsPresentTest TEST END====================
+2022-04-25 02:10:04 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:10:04 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:10:09 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:10:10 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:12:29 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:12:30 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:12:36 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:12:37 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:16:21 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:16:21 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:16:26 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:16:26 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:24:12 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:24:13 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:24:19 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:24:19 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:31:38 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:31:39 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:31:44 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:31:44 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:37:01 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:37:02 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:37:07 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:37:07 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:37:53 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:37:53 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:37:58 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:37:58 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:44:35 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:44:36 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:44:41 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:44:41 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:47:26 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 02:47:27 INFO  Log:22 - Passing email for SignUp
+2022-04-25 02:47:30 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 02:47:30 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 02:47:30 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 02:47:30 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 02:47:36 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 02:47:36 INFO  Log:22 - Passing email for SignUp
+2022-04-25 02:47:40 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 02:47:40 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 02:47:40 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 02:47:40 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 02:47:45 INFO  Log:11 - ====================landingPageContentVerificationTest TEST START====================
+2022-04-25 02:47:45 INFO  Log:22 - Ladning page content is showing
+2022-04-25 02:47:45 INFO  Log:22 - Landing page content Buy, Sell & Create Digital Art is verified
+2022-04-25 02:47:45 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 02:47:50 INFO  Log:11 - ====================validateConnectWalletButtonTest TEST START====================
+2022-04-25 02:47:50 INFO  Log:22 - In top menu Connect Wallet button is showing/displaying
+2022-04-25 02:47:50 INFO  Log:22 - Wallet Button is validated successfully
+2022-04-25 02:47:50 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 02:47:55 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 02:47:55 INFO  Log:22 - Get the current page Url
+2022-04-25 02:47:55 INFO  Log:22 - Store the current page url in string value
+2022-04-25 02:47:55 INFO  Log:22 - Current page url is validated
+2022-04-25 02:47:55 INFO  Log:15 - ====================validateLandingPageUrlTest TEST END====================
+2022-04-25 02:48:00 INFO  Log:11 - ====================validateLogoTest TEST START====================
+2022-04-25 02:48:00 INFO  Log:22 - Log is displayed and store in boolean value
+2022-04-25 02:48:00 INFO  Log:22 - Log is displayed & verified
+2022-04-25 02:48:00 INFO  Log:15 - ====================validateLogoTest TEST END====================
+2022-04-25 02:48:05 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 02:48:05 INFO  Log:22 - Get the landingpage/current page title
+2022-04-25 02:48:05 INFO  Log:22 - Page title stored in string value
+2022-04-25 02:48:05 INFO  Log:22 - Page title is verifed
+2022-04-25 02:48:05 INFO  Log:15 - ====================validatePageTitleTest TEST END====================
+2022-04-25 02:48:10 INFO  Log:11 - ====================validateSignUpLinkIsPresentTest TEST START====================
+2022-04-25 02:48:10 INFO  Log:22 - In top menu SignUp link is showing/displaying
+2022-04-25 02:48:10 INFO  Log:22 - SignUp link validated successfully
+2022-04-25 02:48:10 INFO  Log:15 - ====================validateSignUpLinkIsPresentTest TEST END====================
+2022-04-25 02:48:15 INFO  Log:11 - ====================FAQsContentVerificationTest TEST START====================
+2022-04-25 02:48:19 INFO  Log:15 - ====================FAQsContentVerificationTest TEST END====================
+2022-04-25 02:48:24 INFO  Log:11 - ====================validateResoucePageUrlTest TEST START====================
+2022-04-25 02:48:26 INFO  Log:15 - ====================validateResoucePageUrlTest TEST END====================
+2022-04-25 02:48:31 INFO  Log:11 - ====================validateResourceHeadingTextFAQsTest TEST START====================
+2022-04-25 02:48:34 INFO  Log:15 - ====================validateResourceHeadingTextFAQsTest TEST END====================
+2022-04-25 02:48:39 INFO  Log:11 - ====================validateResourceSubHeadingTextFAQsTest TEST START====================
+2022-04-25 02:48:42 INFO  Log:15 - ====================validateResourceSubHeadingTextFAQsTest TEST END====================
+2022-04-25 02:48:46 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:48:47 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:48:52 INFO  Log:11 - ====================validateMarketPageUrlTest TEST START====================
+2022-04-25 02:48:52 INFO  Log:15 - ====================validateMarketPageUrlTest TEST END====================
+2022-04-25 02:48:57 INFO  Log:11 - ====================validateMarketSubCategoryTest TEST START====================
+2022-04-25 02:48:57 INFO  Log:15 - ====================validateMarketSubCategoryTest TEST END====================
+2022-04-25 02:49:02 INFO  Log:11 - ====================validateHowItWorkPageUrlTest TEST START====================
+2022-04-25 02:49:02 INFO  Log:15 - ====================validateHowItWorkPageUrlTest TEST END====================
+2022-04-25 02:49:07 INFO  Log:11 - ====================validateHowItWorkeadingTextTest TEST START====================
+2022-04-25 02:49:07 INFO  Log:15 - ====================validateHowItWorkeadingTextTest TEST END====================
+2022-04-25 02:49:12 INFO  Log:11 - ====================validateSubHeadingTextTest TEST START====================
+2022-04-25 02:49:12 INFO  Log:15 - ====================validateSubHeadingTextTest TEST END====================
+2022-04-25 02:49:17 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:49:17 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:49:22 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:49:22 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:50:31 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:50:31 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:50:36 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:50:37 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 02:52:55 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 02:52:55 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 02:52:59 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 02:53:00 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 03:04:51 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 03:04:51 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 03:04:55 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 03:04:56 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 03:05:56 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 03:05:56 INFO  Log:22 - Passing email for SignUp
+2022-04-25 03:06:00 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 03:06:00 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 03:06:00 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 03:06:00 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 03:06:04 INFO  Log:11 - ====================doSunscribeTest TEST START====================
+2022-04-25 03:06:04 INFO  Log:22 - Passing email for SignUp
+2022-04-25 03:06:10 INFO  Log:22 - SignUp thank you message is showing
+2022-04-25 03:06:10 INFO  Log:22 - Getting than you message when email is entered as well as SignUp button is clicked
+2022-04-25 03:06:10 INFO  Log:22 - Signup thanks you message is validated successfully
+2022-04-25 03:06:10 INFO  Log:15 - ====================doSunscribeTest TEST END====================
+2022-04-25 03:06:15 INFO  Log:11 - ====================landingPageContentVerificationTest TEST START====================
+2022-04-25 03:06:15 INFO  Log:22 - Ladning page content is showing
+2022-04-25 03:06:15 INFO  Log:22 - Landing page content Buy, Sell & Create Digital Art is verified
+2022-04-25 03:06:15 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 03:06:20 INFO  Log:11 - ====================validateConnectWalletButtonTest TEST START====================
+2022-04-25 03:06:20 INFO  Log:22 - In top menu Connect Wallet button is showing/displaying
+2022-04-25 03:06:20 INFO  Log:22 - Wallet Button is validated successfully
+2022-04-25 03:06:20 INFO  Log:15 - ====================validateConnectWalletButtonTest TEST END====================
+2022-04-25 03:06:25 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 03:06:25 INFO  Log:22 - Get the current page Url
+2022-04-25 03:06:25 INFO  Log:22 - Store the current page url in string value
+2022-04-25 03:06:25 INFO  Log:22 - Current page url is validated
+2022-04-25 03:06:25 INFO  Log:15 - ====================validateLandingPageUrlTest TEST END====================
+2022-04-25 03:06:31 INFO  Log:11 - ====================validateLogoTest TEST START====================
+2022-04-25 03:06:31 INFO  Log:22 - Log is displayed and store in boolean value
+2022-04-25 03:06:31 INFO  Log:22 - Log is displayed & verified
+2022-04-25 03:06:31 INFO  Log:15 - ====================validateLogoTest TEST END====================
+2022-04-25 03:06:36 INFO  Log:11 - ====================validatePageTitleTest TEST START====================
+2022-04-25 03:06:36 INFO  Log:22 - Get the landingpage/current page title
+2022-04-25 03:06:36 INFO  Log:22 - Page title stored in string value
+2022-04-25 03:06:36 INFO  Log:22 - Page title is verifed
+2022-04-25 03:06:36 INFO  Log:15 - ====================validatePageTitleTest TEST END====================
+2022-04-25 03:06:41 INFO  Log:11 - ====================validateSignUpLinkIsPresentTest TEST START====================
+2022-04-25 03:06:41 INFO  Log:22 - In top menu SignUp link is showing/displaying
+2022-04-25 03:06:41 INFO  Log:22 - SignUp link validated successfully
+2022-04-25 03:06:41 INFO  Log:15 - ====================validateSignUpLinkIsPresentTest TEST END====================
+2022-04-25 03:20:16 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 03:20:18 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 03:20:23 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 03:20:23 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 03:22:11 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 03:22:12 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 03:22:17 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 03:22:17 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 03:41:55 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 03:41:55 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 03:42:00 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 03:42:00 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
+2022-04-25 03:45:32 INFO  Log:11 - ====================validateExplorePageTextTest TEST START====================
+2022-04-25 03:45:32 INFO  Log:15 - ====================validateExplorePageTextTest TEST END====================
+2022-04-25 03:45:37 INFO  Log:11 - ====================validateExplorePageUrlTest TEST START====================
+2022-04-25 03:45:37 INFO  Log:15 - ====================validateExplorePageUrlTest TEST END====================
